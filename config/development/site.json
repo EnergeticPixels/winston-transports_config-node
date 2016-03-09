@@ -1,0 +1,5 @@
+{
+    "name": "site",
+    "host": "http://localhost",
+    "port": 5050
+}
